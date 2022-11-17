@@ -18,10 +18,10 @@
         hover:shadow
       "
     >
-      Sign In
+      Login
     </router-link>
     <router-link
-      to="/signup"
+      to="/register"
       class="
         px-8
         py-3
@@ -36,7 +36,7 @@
         hover:shadow
       "
     >
-      Sign Up
+      Register
     </router-link>
   </div>
 </template>
